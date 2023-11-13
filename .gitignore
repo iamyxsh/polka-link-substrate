@@ -1,0 +1,11 @@
+# Ignore the tmp directory in any directory or subdirectory
+**/tmp/
+
+# Ignore the target directory
+**/target/
+
+# Ignore the node_modules directory
+**/node_modules/
+
+db_data/
+postgres_data/
